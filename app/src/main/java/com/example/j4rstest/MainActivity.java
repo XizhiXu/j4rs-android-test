@@ -27,10 +27,10 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "--------------" + l);
         
         groupCallDto1(rfc, title);
-        groupCallDto2(rfc, title);
-        groupCallDto3(rfc, title);
-        groupCallDto4(rfc, title);
-        groupCallDto5(rfc, title);
+//        groupCallDto2(rfc, title);
+//        groupCallDto3(rfc, title);
+//        groupCallDto4(rfc, title);
+//        groupCallDto5(rfc, title);
     }
 
     // region dto1
